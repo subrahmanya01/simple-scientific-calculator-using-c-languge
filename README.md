@@ -1,6 +1,8 @@
 # Scientific-calculator-using-c-languge
 ## what are the operation performed?
-    This calculator will perform arithmatic operations (Addition,Substraction,Multiplication,Division) along with some trignometric functions sin,cos,tan and some other functions like squire root,log,power,exponential.
+    This calculator will perform arithmatic operations (Addition,Substraction,Multiplication,Division) 
+    along with some trignometric functions sin,cos,tan and some other functions like squire root,log,
+    power,exponential.
 ## What is the input format?
      it will ask for entering the expression. we can input the expression using brackets also for example we can give input like (20+40) or 20+40 also.
     
