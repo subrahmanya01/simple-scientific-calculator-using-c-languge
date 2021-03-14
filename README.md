@@ -66,7 +66,7 @@
     
   
    # Code
-    ``` c++
+      
 		#include<stdlib.h>
 		#include<string.h>
 		#include<math.h>
@@ -553,4 +553,3 @@
 		    return 0;
 		}
 
-		```
