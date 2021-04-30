@@ -1,4 +1,4 @@
-# Scientific-calculator-using-c-languge
+# Scientific-calculator-using-c-language
 ## what are the operation performed?
     This calculator will perform arithmatic operations (Addition,Substraction,Multiplication,Division) 
     along with some trignometric functions sin,cos,tan and some other functions like squire root,log,
